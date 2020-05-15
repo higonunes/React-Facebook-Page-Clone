@@ -1,0 +1,38 @@
+div .header {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
+
+div .header img {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+div .header p {
+  font-weight: bold;
+  font-size: 14px;
+  color: #4A4A4A;
+  margin-bottom: 2px;
+}
+
+div .header span {
+  font-weight: normal;
+  font-size: 11px;
+  color: #9A9A9A;
+}
+
+div p {
+  font-weight: normal;
+  font-size: 14px;
+  color: #3E3E3E;
+}
+
+div.line {
+  margin: 20px 0;
+  width: 100%;
+  height: 1px;
+  background: #EEEEEE;
+}

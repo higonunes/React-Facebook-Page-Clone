@@ -1,0 +1,26 @@
+div.comment {
+  display: flex;
+  flex-direction: row;
+}
+
+div.comment img {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+
+div.comment p {
+ font-size: 13px;
+ margin-bottom: 10px;
+ background: #EEEEEE;
+ border-radius: 20px;
+ padding: 10px 15px;
+ text-align: justify;
+  
+}
+
+div.comment p span {
+  font-weight: bold;
+}
